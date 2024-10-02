@@ -38,7 +38,7 @@ body {
 
 canvas {
     height: 200px;
-    width: 2000px !important;
+    width: 200% !important;
     background-color: #1a1625; /* Set background color */
 }
 
